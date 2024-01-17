@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{99E38300-0114-499A-7EB7-2D32A06F6E2C}|">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/BallTransform.cs">
+    <Files>
+      <File FileName="Assets/HelloWorld.cs" />
+      <File FileName="Assets/BallTransform.cs" Line="17" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Essentials of real-time 3D" expanded="True">
+            <Node name="Assets" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c6f35dd2-b1e4-4c4a-a91a-1621bd62d7cd" />
+</Properties>
